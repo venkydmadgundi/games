@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  url: MyString
+  target_group: 1
+  theme: one
+  genre: one
+  violence: one
+
+two:
+  name: MyString
+  url: MyString
+  target_group: 1
+  theme: two
+  genre: two
+  violence: two

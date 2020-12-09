@@ -1,0 +1,2 @@
+class UsersViolence < ApplicationRecord
+end

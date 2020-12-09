@@ -1,0 +1,2 @@
+class UsersTheme < ApplicationRecord
+end
